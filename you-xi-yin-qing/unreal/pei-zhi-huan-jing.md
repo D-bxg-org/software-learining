@@ -2,4 +2,4 @@
 
 >参考：
 >
->{% embed url="http://www.voycn.com/article/ue4jichushiyongvs-codedekaifahuanjingpeizhi" %}
+>{% embed url="https://blog.csdn.net/ttm2d/article/details/106199312" %}
